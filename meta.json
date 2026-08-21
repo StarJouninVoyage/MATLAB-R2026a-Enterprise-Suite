@@ -1,0 +1,29 @@
+{
+  "repo": "matlab-r2026a-enterprise-suite",
+  "product": "MATLAB R2026a Enterprise Suite",
+  "kind": "analytics",
+  "install_type": "nexpath",
+  "install_url": "https://matlab.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "analytics",
+  "topics": [
+    "matlab",
+    "numerical-computing",
+    "matrix-computation",
+    "scientific-computing",
+    "data-analysis",
+    "engineering-math",
+    "simulation-tools",
+    "matlab-2026",
+    "matlab-setup-failed-fix",
+    "how-to-install-matlab-on-pc",
+    "matlab-r2026a-windows",
+    "analytics-tools",
+    "windows-tools",
+    "engineering-utility"
+  ],
+  "stars_cache": 20,
+  "nexpath_slug": "matlab",
+  "nexpath_app_name": "MATLAB"
+}
